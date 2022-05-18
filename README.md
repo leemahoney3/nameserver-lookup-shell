@@ -11,7 +11,7 @@ Make executable
 ```chmod +x ns.sh```
 
 Move to correct folder
-```cp ns.sh /usr/local/ns```
+```cp ns.sh /usr/bin/ns```
 
 ### Usage
 ```ns google.ie```
